@@ -89,3 +89,11 @@ ul li a:hover{
   color: red;
 }
 
+.foot{
+  background-color: #eb3434;
+}
+
+.foot p{
+  text-align: center;
+}
+
